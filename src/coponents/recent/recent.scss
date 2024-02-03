@@ -1,0 +1,9 @@
+.recent{
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 190px);
+    top: 170px;
+    overflow-y: auto;
+    display: flex;
+    flex-wrap: wrap;
+}

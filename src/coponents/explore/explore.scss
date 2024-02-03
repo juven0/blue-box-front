@@ -1,0 +1,54 @@
+.explore {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 140px);
+    top: 100px;
+    overflow-y: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    .header{
+        position: absolute;
+        width: 90%;
+        height: 60px;
+        align-items: center;
+        display: flex;
+        background-color: #fff;
+        border-radius: 20px;
+        .actu-path{
+            position: absolute;
+            width: auto;
+            font-size: 14px;
+            left: 10%;
+            display: flex;
+            justify-content: flex-start;
+            padding: 15px;
+            color: rgb(130, 197, 255);
+            height: 20px;
+        }
+        .button{
+            position: absolute;
+            left: 2%;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #e7e7e7b8;
+            border-radius: 20px;
+            cursor: pointer;
+            img{
+                width: 60%;
+            }
+        }
+    }
+    .explore-element{
+        position: relative;
+        top: 80px;
+        width: 90%;
+        height: calc(100vh - 220px);
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

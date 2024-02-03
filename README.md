@@ -1,6 +1,7 @@
-# Project Name
+# Blue Box
 
-A brief description of the project goes here.
+This project is a system for transferring files between two computers using the HTTP protocol.
+this is the Front-end Part of this project.
 
 ## Table of Contents
 
@@ -14,15 +15,16 @@ A brief description of the project goes here.
 
 ## Overview
 
-A brief description of your project and its key features. You may also include screenshots or visual demonstrations here.
+The File Transfer System allows users to easily send and receive files between two computers over a network. It simplifies the file transfer process by leveraging the HTTP protocol, making it accessible and efficient.
 
 ## Technologies Used
 
-List here the main technologies used in your project. For example:
+List of the main technologies used in this project:
 - React
 - TypeScript
-- CSS Modules
-- etc.
+- Sass
+- Redux
+- vite js
 
 ## Installation
 

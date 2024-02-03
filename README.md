@@ -26,8 +26,8 @@ List here the main technologies used in your project. For example:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/your_project.git`
-2. Navigate to the project directory: `cd your_project`
+1. Clone the repository: `git clone https://github.com/juven0/blue-box-front.git`
+2. Navigate to the project directory: `cd blue-box-front`
 3. Install dependencies: `npm install`
 
 ## Getting Started
